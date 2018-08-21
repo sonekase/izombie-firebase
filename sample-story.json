@@ -1,0 +1,19 @@
+
+{ "story": [{
+    "linkName": " Wait quietly for help to arrive",
+    "body": "You are drifting through darkness, floating weightless in an inky black void. Slowly you realize you are not quite awake, but coming out of unconsciousness; you must have passed out for some reason. You try to sit up, but some unseen force holds your body down. With a note of frustration you realize again that you are still not fully awake. Focusing your will you try to start yourself awake, and for a moment it seems to work – you sit up and look around and can see that you are in a dark tunnel with very little light. You notice a man stooped over some object to your right and try to call out to him, but your voice does not work. Regardless, the man turns to look at you and it is then that you see it is not a man at all, but a smoky silhouette of shadow in vaguely a man-like shape. The thing sets upon you in a flash and you feel a smothering presence overpowering you in the darkness, wrapping you up, holding you down; trying to invade you. In panic you jolt awake – this time for real. The first thing you notice is a sharp stabbing pain in your head. Reaching up, you feel your hair matted in blood and grimace as you run your fingers over the jagged edges of what must surely be a serious head wound. Part of your scalp has actually been torn free of your skull and hangs in a greasy mess over your ear. You’re not bleeding from the wound very much – it seems to have clotted – but you definitely should get it seen by a medical professional sooner than later…",
+    "links": [2],
+    "id": 1
+  }, {
+    "linkName": " Head to the noise and get eaten.",
+    "body": "Part 2…",
+    "links": [3],
+    "id": 2
+    }, {
+      "linkName": " Grab weapon and hit.",
+      "body": "Part 3…",
+      "links": [1, 2],
+      "id": 3
+
+  }]
+}
